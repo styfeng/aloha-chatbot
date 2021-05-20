@@ -14,6 +14,13 @@ Link to the [paper](https://arxiv.org/abs/1910.08293). You can cite it as follow
 }
 ```
 
+Authors: <a href="https://www.linkedin.com/in/aaron-li-01215748/?originalSubdomain=ca">Aaron W. Li</a>,
+			  <a href="https://www.linkedin.com/in/veronica-rong-jiang/">Veronica Jiang</a>,
+			  <a href="https://scholar.google.ca/citations?hl=en&user=zwiszZIAAAAJ">Steven Y. Feng</a>,
+			  <a href="https://www.linkedin.com/in/julia-sprague/">Julia Sprague</a>,
+			  Wei Zhou, 
+			  <a href="https://scholar.google.ca/citations?user=YcBGOtQAAAAJ&hl=en">Jesse Hoey</a>
+
 Talk [here](https://www.youtube.com/watch?v=TtomrolC4Dc&ab_channel=StevenFeng). Poster and other resources [here](https://styfeng.github.io/).
 
 Note: inquiries should be directed to stevenyfeng@gmail.com or by opening an issue here.
