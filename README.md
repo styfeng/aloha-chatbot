@@ -10,7 +10,8 @@ Link to the [paper](https://arxiv.org/abs/1910.08293). You can cite it as follow
   volume={34}, url={https://ojs.aaai.org/index.php/AAAI/article/view/6328}, 
   DOI={10.1609/aaai.v34i05.6328}, number={05}, journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
   author={Li, Aaron W. and Jiang, Veronica and Feng, Steven Y. and Sprague, Julia and Zhou, Wei and Hoey, Jesse}, 
-  year={2020}, month={Apr.}, pages={8155-8163} }
+  year={2020}, month={Apr.}, pages={8155-8163}
+}
 ```
 
 ## Overview
