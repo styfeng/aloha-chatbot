@@ -14,6 +14,8 @@ Link to the [paper](https://arxiv.org/abs/1910.08293). You can cite it as follow
 }
 ```
 
+Talk [here](https://www.youtube.com/watch?v=TtomrolC4Dc&ab_channel=StevenFeng). Poster and other resources [here](https://styfeng.github.io/).
+
 ## Overview
 
 ![intro](intro.png)
